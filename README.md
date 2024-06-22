@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my links are available at [Linktree](http://linktr.ee/Vishal_Maurya)
 
-- 💬 Ask me about **Data Science, Tableau, Power BI, Rust, R, JAVA**
+- 💬 Ask me about **Data Science, Tableau, Power BI, Rust, R, JAVA, Python**
 
 - 📫 How to reach me **vishalmaurya850@gmail.com**
 
