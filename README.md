@@ -60,8 +60,8 @@
 </p>
 <h3 align="left">GitHub | Stats</h3>
 <p align="left"> 
-<img height="500" width="500" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="500" width="500" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaurya850&show_icons=true&locale=en&layout=compact" alt="vishalmaurya850"/>
-<img height="500" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&" alt="vishalmaurya850" />
+<img height="350" width="350" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
+<img height="350" width="350" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
+<img height="350" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaurya850&show_icons=true&locale=en&layout=compact" alt="vishalmaurya850"/>
+<img height="350" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&" alt="vishalmaurya850" />
 </p>
