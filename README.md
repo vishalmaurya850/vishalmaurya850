@@ -1,4 +1,3 @@
-<img align="left" src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs%2Fassets%2FPostman%20White.png"><br>
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="center" alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
@@ -28,7 +27,8 @@
 <a href="https://www.geeksforgeeks.org/user/vishalmaurya1611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rwrxmhurula6y6hssnvuhw5dps5s1zpjdeifjjqr/" height="30" width="40" /></a>
 <a href="https://discord.com/users/798221712583426048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/798221712583426048" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Stuffs Showoff:</h3>
+<img align="left" src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs%2Fassets%2FPostman%20White.png"><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
