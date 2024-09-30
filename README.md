@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="Coding" height="400" width="1000" src="image/img.jpeg"/>
+<img align="center" alt="Coding" height="400" width="1100" src="image/img.jpeg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmaurya850&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmaurya850" /> </p>
 
 
