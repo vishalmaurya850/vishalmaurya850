@@ -77,6 +77,22 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&theme=radical">
 <img height="169em" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
 <img height="169em" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaurya850&show_icons=true&locale=en&layout=compact" alt="vishalmaurya850"/>
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&" alt="vishalmaurya850" />
+
 </div><br> 
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=vishalmaurya850&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vishalmaur6" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
