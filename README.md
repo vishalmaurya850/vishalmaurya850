@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="center" alt="Coding" height="400" width="1100" src="image/img.jpeg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmaurya850&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmaurya850" /> </p>
+<img aign="left" src="https://komarev.com/ghpvc/?username=vishalmaurya850&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmaurya850" />
 
 
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **vishalmaurya850@gmail.com**
 
-- 📄 Know about my experiences by my [Resume](https://drive.google.com/file/d/1Hqh-OLPUEED3TzEm8C-JDIVcIGXlIztb/view?usp=drivesdk)
 
   
 ## GSSOC(24) Badges 🪶
