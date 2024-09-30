@@ -18,7 +18,7 @@
   
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-![Picture1-removebg-preview](https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff)
+<img src="https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff" height="100" width="100">
 </div>
 
 <h3 align="left">Connect with me:</h3>
