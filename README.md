@@ -19,14 +19,8 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
+  <img src="[https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png](https://private-user-images.githubusercontent.com/72603662/356759984-4ece96a5-043a-44df-b51b-40738d3603ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3MTU0NjUsIm5iZiI6MTcyNzcxNTE2NSwicGF0aCI6Ii83MjYwMzY2Mi8zNTY3NTk5ODQtNGVjZTk2YTUtMDQzYS00NGRmLWI1MWItNDA3MzhkMzYwM2ZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTMwVDE2NTI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0ZmI3YWViNTMxZmQwM2FhZGQxYzEwZWZjYmE3YzdhZWQ3ZWI5YzliY2NmZWQzOTRmMjA0Yjg4YjA0NTRkZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4BtzsjrcsvAE-80Dox5haF5hAo-JCL30TnOwU9pqroo)" width="100px" height="100px" />
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
