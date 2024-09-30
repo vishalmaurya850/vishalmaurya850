@@ -66,9 +66,17 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">GitHub | Stats</h3>
-<p align="left"> 
-<img height="350" width="350" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="350" width="350" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="350" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaurya850&show_icons=true&locale=en&layout=compact" alt="vishalmaurya850"/>
-<img height="350" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&" alt="vishalmaurya850" />
-</p>
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalmaurya850&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalmaurya850&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalmaurya850&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalmaurya850&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalmaurya850&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=vishalmaurya850&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&theme=radical">
+<img height="169em" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
+<img height="169em" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
+<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaurya850&show_icons=true&locale=en&layout=compact" alt="vishalmaurya850"/>
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&" alt="vishalmaurya850" />
+</div><br> 
