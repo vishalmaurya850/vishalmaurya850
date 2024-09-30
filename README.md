@@ -17,7 +17,7 @@
 
 
   
-## GSSOC(24) Badges 🪶
+<h3 aign="left"> GSSOC(24) Badges <h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff">
 </div>
@@ -79,7 +79,7 @@
 <img height="169em" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
 
 </div><br> 
-# 🏆 Trophies
+<h3 align="left"> 🏆 Trophies</h3>
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=vishalmaurya850&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
