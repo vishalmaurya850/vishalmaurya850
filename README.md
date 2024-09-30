@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Vishal Maurya</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="center" alt="Coding" height="400" width="1100" src="image/img.jpeg"/>
