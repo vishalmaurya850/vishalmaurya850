@@ -75,8 +75,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalmaurya850&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=vishalmaurya850&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&theme=radical">
-<img height="169em" src="https://stats.quira.sh/vishalmaurya850/github?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
-<img height="169em" src="https://stats.quira.sh/vishalmaurya850/topics-over-time?theme=dark" alt="https://quira.sh?utm_source=widgets&utm_campaign=vishalmaurya850"/>
+
 
 </div><br> 
 <h3 align="left"> 🏆 Trophies</h3>
