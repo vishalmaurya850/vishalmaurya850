@@ -78,6 +78,8 @@
 
 
 </div><br> 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+<br>
 <h3 align="left"> 🏆 Trophies</h3>
 
 <div align="center">
