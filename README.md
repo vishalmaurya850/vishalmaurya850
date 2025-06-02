@@ -77,8 +77,7 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaurya850&theme=radical">
 
 
-</div><br> 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+</div>
 <br>
 <h3 align="left"> 🏆 Trophies</h3>
 
